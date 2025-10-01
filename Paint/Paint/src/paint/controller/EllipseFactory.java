@@ -1,4 +1,3 @@
-// file: paint/controller/EllipseFactory.java
 package paint.controller;
 
 import java.util.HashMap;

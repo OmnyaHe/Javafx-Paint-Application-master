@@ -1,4 +1,3 @@
-// file: paint/controller/ShapeCreator.java
 package paint.controller;
 
 import java.util.HashMap;

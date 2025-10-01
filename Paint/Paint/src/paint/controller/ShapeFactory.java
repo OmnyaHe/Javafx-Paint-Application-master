@@ -1,4 +1,3 @@
-// file: paint/controller/ShapeFactory.java
 package paint.controller;
 
 import java.util.HashMap;
@@ -12,7 +11,6 @@ public class ShapeFactory {
     private final Map<String, ShapeCreator> creators = new HashMap<>();
 
     public ShapeFactory() {
-        // register known creators (keys match your current type strings)
         creators.put("Circle",    new CircleFactory());
         creators.put("Ellipse",   new EllipseFactory());
         creators.put("Rectangle", new RectangleFactory());

@@ -1,4 +1,3 @@
-// file: paint/controller/LineFactory.java
 package paint.controller;
 
 import java.util.HashMap;

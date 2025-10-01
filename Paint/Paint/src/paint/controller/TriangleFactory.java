@@ -1,4 +1,3 @@
-// file: paint/controller/TriangleFactory.java
 package paint.controller;
 
 import java.util.HashMap;
