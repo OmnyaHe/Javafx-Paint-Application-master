@@ -1,0 +1,27 @@
+{
+  "java.project.referencedLibraries": [
+    "C:/javafx-sdk-25/lib/*.jar",
+    "lib/junit-platform-console-standalone-6.0.0.jar"
+  ],
+  "java.jdt.ls.java.home": "C:/Program Files/Java/jdk-23",
+  "java.configuration.excludeFolders": [
+    "${workspaceFolder}/Paint/Paint/test/**"
+  ],
+  "java.test.config": [
+    {
+      "name": "FX",
+      "vmArgs": [
+        "--module-path",
+        "C:/javafx-sdk-25/lib",
+        "--add-modules",
+        "javafx.controls,javafx.graphics,javafx.fxml"
+      ]
+    }
+  ],
+  "java.test.defaultConfig": "FX"
+  
+}
+
+
+
+
